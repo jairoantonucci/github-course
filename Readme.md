@@ -6,4 +6,6 @@ Este é um repositório teste para ensinar como ele funciona.
 
 Saiba mais em...
 
-Gostou o curso?
+Gostou o curso?i
+
+E-mail: jairo.antonucci@hotmail.com
